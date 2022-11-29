@@ -1,0 +1,6 @@
+id=whyredfmradiolib
+name=fm radio lib for whyred aosp roms
+version=1.6
+versionCode=100
+author=soredake
+description=adds fm radio lib for whyred aosp roms
